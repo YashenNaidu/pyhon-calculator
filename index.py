@@ -34,7 +34,7 @@ if YashensSystem == '1':
 elif YashensSystem == '2':
     print(iNum1, "-", iNum2, "=", minus(iNum1, iNum2))
 elif YashensSystem == '3':
-    print(iNum1, "/", iNum2, "=", multu(iNum1, iNum2))
+    print(iNum1, "*", iNum2, "=", multu(iNum1, iNum2))
 elif YashensSystem == '4':
     if num != 0:
         num = (iNum1 / iNum2)
