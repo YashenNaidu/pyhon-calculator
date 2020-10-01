@@ -33,8 +33,8 @@ if RyansDevice == '1':
 elif RyansDevice == '2':
     print(iNum1, "-", iNum2, "=", minus(iNum1, iNum2))
 elif RyansDevice == '3':
-    print(iNum1, "/", iNum2, "=", multu(iNum1, iNum2))
+    print(iNum1, "*", iNum2, "=", multu(iNum1, iNum2))
 elif RyansDevice == '4':
-    print(iNum1, "*", iNum2, "=", divide(iNum1, iNum2))
+    print(iNum1, "/", iNum2, "=", divide(iNum1, iNum2))
 else:
     print("Invalid input")
